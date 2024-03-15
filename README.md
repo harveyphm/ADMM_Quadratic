@@ -6,4 +6,4 @@ This is a project to use ADMM to solve the following problem in Python
    
    Subject to $lb \leq x \leq ub$
 
-   where \( P \in S_+ \), \( b \in \mathbb{R}^n \), \( r \) is a constant, and \( l \) and \( u \) are scaling parameters.
+   where $P \in S_+$, $b \in \mathbb{R}^n$, $r$ is a constant, and $l$ and $u$ are scaling parameters.
